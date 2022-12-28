@@ -3,7 +3,6 @@ info:
   title: 'swagger test'
   description: ''
   version: '0.1'
-  termsOfService: 'http://swagger.io/terms/'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
